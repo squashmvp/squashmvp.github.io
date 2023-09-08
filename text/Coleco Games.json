@@ -1,0 +1,257 @@
+[
+    {
+        "Title": "Alcazar",
+        "Genre": "Adventure",
+        "Rating": "3"
+    },
+    {
+        "Title": "Aquattack",
+        "Genre": "Arcade Shmup",
+        "Rating": "3"
+    },
+    {
+        "Title": "BC Quest for Tires 2",
+        "Genre": "Platformer",
+        "Rating": "2"
+    },
+    {
+        "Title": "Beam Rider",
+        "Genre": "Shmup Vertical",
+        "Rating": "4"
+    },
+    {
+        "Title": "Buck Rogers",
+        "Genre": "Shmup Jet 3rd Person",
+        "Rating": "3"
+    },
+    {
+        "Title": "Burger Time",
+        "Genre": "Arcade Platformer",
+        "Rating": "5"
+    },
+    {
+        "Title": "Congo Bongo",
+        "Genre": "Arcade Platformer",
+        "Rating": "5"
+    },
+    {
+        "Title": "CP Picture Show",
+        "Genre": "Simulation Photographer",
+        "Rating": "3"
+    },
+    {
+        "Title": "Dam Busters, The",
+        "Genre": "Shmup Jet",
+        "Rating": "3"
+    },
+    {
+        "Title": "Decathlon",
+        "Genre": "Sports Track",
+        "Rating": "2"
+    },
+    {
+        "Title": "Defender",
+        "Genre": "Shmup Horizontal",
+        "Rating": "5"
+    },
+    {
+        "Title": "Destructor",
+        "Genre": "Platformer Basic",
+        "Rating": "3"
+    },
+    {
+        "Title": "Dig Dug",
+        "Genre": "Arcade Combat",
+        "Rating": "4"
+    },
+    {
+        "Title": "Dragonfire",
+        "Genre": "Arcade Platformer",
+        "Rating": "2"
+    },
+    {
+        "Title": "Fortune Builder",
+        "Genre": "Simulation City",
+        "Rating": "5"
+    },
+    {
+        "Title": "Frenzy",
+        "Genre": "Adventure Top Down",
+        "Rating": "5"
+    },
+    {
+        "Title": "Frogger",
+        "Genre": "Arcade Platformer",
+        "Rating": "5"
+    },
+    {
+        "Title": "Frogger 2",
+        "Genre": "Arcade Platformer",
+        "Rating": "2"
+    },
+    {
+        "Title": "Frontline",
+        "Genre": "Shmup Top Down",
+        "Rating": "3"
+    },
+    {
+        "Title": "Gyruss",
+        "Genre": "Shmup Pipe",
+        "Rating": "4"
+    },
+    {
+        "Title": "Heist, The",
+        "Genre": "Platformer Stealth",
+        "Rating": "4"
+    },
+    {
+        "Title": "James Bond",
+        "Genre": "Shmup Platformer",
+        "Rating": "3"
+    },
+    {
+        "Title": "Joust",
+        "Genre": "Arcade Combat",
+        "Rating": "3"
+    },
+    {
+        "Title": "Jungle Hunt",
+        "Genre": "Arcade Platformer",
+        "Rating": "3"
+    },
+    {
+        "Title": "Looping",
+        "Genre": "Shmup Horizontal",
+        "Rating": "5"
+    },
+    {
+        "Title": "Monkey Academy",
+        "Genre": "Education Platformer",
+        "Rating": "3"
+    },
+    {
+        "Title": "Montezuma's Revenge",
+        "Genre": "Platformer Adventure",
+        "Rating": "4"
+    },
+    {
+        "Title": "Mr. Do",
+        "Genre": "Arcade Combat",
+        "Rating": "3"
+    },
+    {
+        "Title": "Pac-Man",
+        "Genre": "Arcade Pac-Man",
+        "Rating": "5"
+    },
+    {
+        "Title": "Pit Stop",
+        "Genre": "Racing Basic",
+        "Rating": "5"
+    },
+    {
+        "Title": "Pitfall",
+        "Genre": "Platformer Adventure",
+        "Rating": "5"
+    },
+    {
+        "Title": "Popeye",
+        "Genre": "Arcade Combat",
+        "Rating": "4"
+    },
+    {
+        "Title": "Q'Bert",
+        "Genre": "Arcade Platformer",
+        "Rating": "5"
+    },
+    {
+        "Title": "River Raid",
+        "Genre": "Shmup Vertical",
+        "Rating": "4"
+    },
+    {
+        "Title": "Roc and Rope",
+        "Genre": "Arcade Platformer",
+        "Rating": "4"
+    },
+    {
+        "Title": "Rocky",
+        "Genre": "Fighting Boxing",
+        "Rating": "3"
+    },
+    {
+        "Title": "Sector Alpha",
+        "Genre": "FPS",
+        "Rating": "3"
+    },
+    {
+        "Title": "Sewer Sam",
+        "Genre": "Adventure Combat",
+        "Rating": "5"
+    },
+    {
+        "Title": "Space Fury",
+        "Genre": "Shmup Top Down",
+        "Rating": "4"
+    },
+    {
+        "Title": "Space Panic",
+        "Genre": "Arcade Platformer",
+        "Rating": "4"
+    },
+    {
+        "Title": "Spy Hunter",
+        "Genre": "Racing Combat",
+        "Rating": "5"
+    },
+    {
+        "Title": "Squish'em Sam",
+        "Genre": "Arcade Platformer",
+        "Rating": "4"
+    },
+    {
+        "Title": "Star Trek",
+        "Genre": "Shmup Top Down",
+        "Rating": "5"
+    },
+    {
+        "Title": "Subroc",
+        "Genre": "FPS",
+        "Rating": "3"
+    },
+    {
+        "Title": "Tapper",
+        "Genre": "Arcade",
+        "Rating": "5"
+    },
+    {
+        "Title": "Tarzan",
+        "Genre": "Platformer Adventure",
+        "Rating": "3"
+    },
+    {
+        "Title": "Threshold",
+        "Genre": "Shmup Vertical",
+        "Rating": "4"
+    },
+    {
+        "Title": "Up And Down",
+        "Genre": "Arcade Platformer",
+        "Rating": "4"
+    },
+    {
+        "Title": "War Games",
+        "Genre": "Simulation Army",
+        "Rating": "3"
+    },
+    {
+        "Title": "War Room",
+        "Genre": "Shmup Top Down",
+        "Rating": "4"
+    },
+    {
+        "Title": "Zaxxon",
+        "Genre": "Shmup Orthographic",
+        "Rating": "3"
+    }
+]

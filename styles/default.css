@@ -1,0 +1,168 @@
+:root {
+  --bg-color-1: #171719;
+  --bg-color-2: #232426;
+  --bg-color-3: #3a3c3f;
+  --text-color-1: #e0e9ff;
+  --text-color-2: #c9d8ff;
+  --text-color-3: #b3c0e0;
+  /* --color-1: #fbfbfb;
+  --color-2: #b9e1dc;
+  --color-3: #bbe9db;
+  --color-4: #aeccc6;
+  --color-5: #9ba6a5;
+  --color-6: #757a79;
+  --color-7: #f38181;
+  --color-8: #756c83; */
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--bg-color-1);
+  color: var(--text-color-2);
+  display: flex;
+  flex-direction: column;
+  font-family: Courier, monospace;
+  justify-content: center;
+  align-content: center;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+p {
+  padding: 0px 10px;
+}
+
+button {
+  background-color: var(--color-1);
+}
+
+aside {
+  right: 0;
+}
+
+header {
+  margin: 6px;
+  margin-bottom: 0px;
+}
+
+span {
+  padding: 20px;
+}
+
+.page-header {
+  /* background: var(--bg-color-2); */
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+}
+
+header img {
+  margin: 14px 0px 0px 0px;
+
+}
+
+.page-title {
+  color: var(--text-color-1);
+}
+
+.sidebar-btn {
+  background: var(--bg-color-2);
+  color: var(--text-color-2);
+  padding: 5px;
+  border-radius: 8px;
+  cursor: pointer;
+  position: relative;
+  top: 22px;
+  right: 4px;
+}
+
+.sidebar-visible {
+  visibility: hidden;
+  position: absolute;
+}
+
+#sidebar {
+  background: var(--bg-color-3);
+  color: var(--text-color-1);
+  top: 0;
+  right: 0;
+  margin: 3px;
+  padding: 5px;
+  text-align: right;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+.page-main {
+  background: var(--bg-color-2);
+  border-style: ridge;
+  border-width: 7px;
+  border-color: var(--bg-color-1);
+}
+
+main img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  max-width: 1280px;
+  height: auto;
+  max-height: 1280px;
+}
+
+#prev,
+#prev-0,
+#prev-1,
+#prev-2,
+#prev-3,
+#next,
+#next-0,
+#next-1,
+#next-2,
+#next-3 {
+  cursor: pointer;
+  position: absolute;
+  user-select: none;
+}
+
+#prev,
+#prev-0,
+#prev-1,
+#prev-2,
+#prev-3 {
+  left: 10%;
+}
+
+#next,
+#next-0,
+#next-1,
+#next-2,
+#next-3 {
+  right: 10%;
+}
+
+.footer-footer {
+  justify-content: space-between;
+  align-items: center;
+  text-align:center;
+}
+
+@media (min-width:1000px){
+  main img {
+    width: 50%;
+  }
+}

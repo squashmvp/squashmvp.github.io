@@ -1,0 +1,1032 @@
+[
+    {
+        "Title": "The Addams Family",
+        "Genre": "Platformer Basic",
+        "Rating": "2"
+    },
+    {
+        "Title": "Aerial Assault",
+        "Genre": "Shmup Horizontal",
+        "Rating": "2"
+    },
+    {
+        "Title": "Air Rescue",
+        "Genre": "Shmup Horizontal Helicopter",
+        "Rating": "3"
+    },
+    {
+        "Title": "Aladdin",
+        "Genre": "Platformer Basic",
+        "Rating": "3"
+    },
+    {
+        "Title": "Alex Kidd- The Lost Stars",
+        "Genre": "Platformer Basic",
+        "Rating": "2.5"
+    },
+    {
+        "Title": "Alex Kidd in High Tech World",
+        "Genre": "Platformer RPG",
+        "Rating": "4"
+    },
+    {
+        "Title": "Alex Kidd in Miracle World",
+        "Genre": "Platformer Combat",
+        "Rating": "3"
+    },
+    {
+        "Title": "Alex Kidd in Shinobi World",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "ALF",
+        "Genre": "Platformer Adventure Puzzle",
+        "Rating": "3"
+    },
+    {
+        "Title": "Alien 3",
+        "Genre": "Platformer Combat",
+        "Rating": "4"
+    },
+    {
+        "Title": "Alien Storm",
+        "Genre": "Beat'em Up 2.5D",
+        "Rating": "3"
+    },
+    {
+        "Title": "Alien Syndrome",
+        "Genre": "Shooter Top-Down",
+        "Rating": "4"
+    },
+    {
+        "Title": "Altered Beast",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "2"
+    },
+    {
+        "Title": "American Pro Football",
+        "Genre": "Sports Football",
+        "Rating": "4"
+    },
+    {
+        "Title": "Arcade Smash Hits",
+        "Genre": "Compilation",
+        "Rating": "5"
+    },
+    {
+        "Title": "Asterix",
+        "Genre": "Platformer Combat",
+        "Rating": "5"
+    },
+    {
+        "Title": "Asterix and the Great Rescue",
+        "Genre": "Platformer Combat",
+        "Rating": "4.5"
+    },
+    {
+        "Title": "Astro Warrior",
+        "Genre": "Shmup Vertical",
+        "Rating": "4"
+    },
+    {
+        "Title": "Bart vs. The Space Mutants",
+        "Genre": "Platformer Basic",
+        "Rating": "2"
+    },
+    {
+        "Title": "Bart vs. The World",
+        "Genre": "Platformer Basic",
+        "Rating": "2"
+    },
+    {
+        "Title": "Batman Returns",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "4"
+    },
+    {
+        "Title": "Battle Out Run",
+        "Genre": "Racing Arcade",
+        "Rating": "3"
+    },
+    {
+        "Title": "Black Belt",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "Bomber Raid",
+        "Genre": "Shmup Vertical",
+        "Rating": "3"
+    },
+    {
+        "Title": "Bonanza Bros.",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "4"
+    },
+    {
+        "Title": "Bonkers Wax Up",
+        "Genre": "Platformer Basic",
+        "Rating": "2"
+    },
+    {
+        "Title": "Bram Stoker's Dracula",
+        "Genre": "Platformer Combat",
+        "Rating": "5"
+    },
+    {
+        "Title": "Bubble Bobble",
+        "Genre": "Platformer Puzzle",
+        "Rating": "3"
+    },
+    {
+        "Title": "Buggy Run",
+        "Genre": "Racing O-View",
+        "Rating": "4"
+    },
+    {
+        "Title": "Captain Silver",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "Casino GAmes",
+        "Genre": "Casino",
+        "Rating": "5"
+    },
+    {
+        "Title": "Champions of Europe",
+        "Genre": "Sports Soccer",
+        "Rating": "5"
+    },
+    {
+        "Title": "Championship Hockey",
+        "Genre": "Sports Hockey",
+        "Rating": "3"
+    },
+    {
+        "Title": "Cheese-Catastrophe",
+        "Genre": "Platformer Basic",
+        "Rating": "4"
+    },
+    {
+        "Title": "Choplifter",
+        "Genre": "Shmup Horizontal Helicopter",
+        "Rating": "4"
+    },
+    {
+        "Title": "Chuck Rock",
+        "Genre": "Platformer Combat",
+        "Rating": "3"
+    },
+    {
+        "Title": "Chuck Rock 2",
+        "Genre": "Platformer Combat",
+        "Rating": "5"
+    },
+    {
+        "Title": "Cloud Master",
+        "Genre": "Shmup Horizontal",
+        "Rating": "4"
+    },
+    {
+        "Title": "Columns",
+        "Genre": "Puzzle Tetris",
+        "Rating": "5"
+    },
+    {
+        "Title": "Cool Spot",
+        "Genre": "Platformer Basic",
+        "Rating": "3"
+    },
+    {
+        "Title": "Cosmic Spacehead",
+        "Genre": "Platformer RPG",
+        "Rating": "4"
+    },
+    {
+        "Title": "Cyber Shinobi",
+        "Genre": "Beat'Em Up 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "Cyborg Hunter",
+        "Genre": "Beat'Em Up 2D Adventure",
+        "Rating": "4"
+    },
+    {
+        "Title": "Daffy Duck in Hollywood",
+        "Genre": "Platformer Combat",
+        "Rating": "3"
+    },
+    {
+        "Title": "Danan the Jungle Fighter",
+        "Genre": "Beat'Em Up 2D Adventure",
+        "Rating": "5"
+    },
+    {
+        "Title": "Dead Angle",
+        "Genre": "Shmup 3rd Person",
+        "Rating": "3"
+    },
+    {
+        "Title": "Deep Duck Trouble",
+        "Genre": "Platformer Combat",
+        "Rating": "4"
+    },
+    {
+        "Title": "Desert Speedtrap",
+        "Genre": "Platformer Basic",
+        "Rating": "4"
+    },
+    {
+        "Title": "Desert Strike",
+        "Genre": "Shmup Helicopter",
+        "Rating": "5"
+    },
+    {
+        "Title": "Dick Tracy",
+        "Genre": "Beat'em Up Shmup 3rd Person",
+        "Rating": "4"
+    },
+    {
+        "Title": "Double Dragon",
+        "Genre": "Beat'em Up 2.5D",
+        "Rating": "4"
+    },
+    {
+        "Title": "Double Hawk",
+        "Genre": "Shmup 3rd Person",
+        "Rating": "4"
+    },
+    {
+        "Title": "Dr. Robotnik's Mean Bean Machine",
+        "Genre": "Puzzle Tetris",
+        "Rating": "5"
+    },
+    {
+        "Title": "Dragon - The Bruce Lee Story",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "Dragon Crystal",
+        "Genre": "RPG Adventure",
+        "Rating": "3"
+    },
+    {
+        "Title": "Dynamite Duke",
+        "Genre": "Shmup 3rd Person",
+        "Rating": "4"
+    },
+    {
+        "Title": "Dynamite Dux",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "4"
+    },
+    {
+        "Title": "E-SWAT - City Under Siege",
+        "Genre": "Beat'em Up Shmup 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "Ecco the Dolphin",
+        "Genre": "Simulator Dolphin",
+        "Rating": "5"
+    },
+    {
+        "Title": "Enduro Racer",
+        "Genre": "Racing-O Dirtbikes",
+        "Rating": "4"
+    },
+    {
+        "Title": "F1 Championship",
+        "Genre": "Racing F1",
+        "Rating": "5"
+    },
+    {
+        "Title": "Fantasy Zone",
+        "Genre": "Shmup Horizontal",
+        "Rating": "5"
+    },
+    {
+        "Title": "Famtasy Zone 2 Tears of Opa-Opa",
+        "Genre": "Shmup Horizontal",
+        "Rating": "5"
+    },
+    {
+        "Title": "Fantasy Zone 3",
+        "Genre": "Shmup Maze",
+        "Rating": "4"
+    },
+    {
+        "Title": "Fire and Forget 2",
+        "Genre": "Shmup Racing",
+        "Rating": "3"
+    },
+    {
+        "Title": "The Flash",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "The Flinstones",
+        "Genre": "Puzzle Platformer",
+        "Rating": "4"
+    },
+    {
+        "Title": "Forgotten Worlds",
+        "Genre": "Shmup Horizontal",
+        "Rating": "5"
+    },
+    {
+        "Title": "G-Loc Air Battle",
+        "Genre": "Shmup Jet",
+        "Rating": "5"
+    },
+    {
+        "Title": "Gain Ground",
+        "Genre": "Beat'em Up Top Down",
+        "Rating": "5"
+    },
+    {
+        "Title": "Galaxy Force",
+        "Genre": "Shmup 3rd Person Jet",
+        "Rating": "4"
+    },
+    {
+        "Title": "Gauntlet",
+        "Genre": "Shmup Top Down",
+        "Rating": "5"
+    },
+    {
+        "Title": "Ghost House",
+        "Genre": "Platformer Combat",
+        "Rating": "5"
+    },
+    {
+        "Title": "Ghostbusters",
+        "Genre": "Mini-Games",
+        "Rating": "4"
+    },
+    {
+        "Title": "Ghouls n Ghosts",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "5"
+    },
+    {
+        "Title": "Global Defense",
+        "Genre": "Shmup Horizontal Drone",
+        "Rating": "4"
+    },
+    {
+        "Title": "Global Gladiators",
+        "Genre": "Platformer Combat",
+        "Rating": "3"
+    },
+    {
+        "Title": "Golden Axe",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "Golden Axe Warrior",
+        "Genre": "Beat'em Up Top Down Adventure",
+        "Rating": "5"
+    },
+    {
+        "Title": "Golf Mania",
+        "Genre": "Sports Golf",
+        "Rating": "4"
+    },
+    {
+        "Title": "Golvellius - Valley of Doom",
+        "Genre": "Platformer Combat",
+        "Rating": "4"
+    },
+    {
+        "Title": "Great Baseball",
+        "Genre": "Sports Baseball",
+        "Rating": "4"
+    },
+    {
+        "Title": "Great Golf",
+        "Genre": "Sports Golf",
+        "Rating": "3"
+    },
+    {
+        "Title": "Great Volleyball",
+        "Genre": "Sports Volleyball",
+        "Rating": "4"
+    },
+    {
+        "Title": "Heroes of the Lance",
+        "Genre": "RPG Adventure",
+        "Rating": "3"
+    },
+    {
+        "Title": "Home Alone",
+        "Genre": "Platformer Puzzle",
+        "Rating": "4"
+    },
+    {
+        "Title": "Impossible Mission",
+        "Genre": "Platformer Puzzle",
+        "Rating": "5"
+    },
+    {
+        "Title": "Incredible Crash Dummies",
+        "Genre": "Arcade",
+        "Rating": "4"
+    },
+    {
+        "Title": "Incredible Hulk",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "Indiana Jones and the Last Crusade",
+        "Genre": "Platformer Combat",
+        "Rating": "4"
+    },
+    {
+        "Title": "James Bond 007 - The Duel",
+        "Genre": "Platformer Combat",
+        "Rating": "3"
+    },
+    {
+        "Title": "James Pond 2 - Codename Robocod",
+        "Genre": "Platformer Basic",
+        "Rating": "4"
+    },
+    {
+        "Title": "Joe Montana Football",
+        "Genre": "Sports Football",
+        "Rating": "3"
+    },
+    {
+        "Title": "Jungle Book",
+        "Genre": "Platformer Basic",
+        "Rating": "3"
+    },
+    {
+        "Title": "Jurassic Park",
+        "Genre": "Mini-Games",
+        "Rating": "3"
+    },
+    {
+        "Title": "Kenseiden",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "King's Quest",
+        "Genre": "Platformer Adventure",
+        "Rating": "3"
+    },
+    {
+        "Title": "Klax",
+        "Genre": "Puzzle Tetris",
+        "Rating": "5"
+    },
+    {
+        "Title": "Krusty's Fun House",
+        "Genre": "Platformer Basic",
+        "Rating": "3"
+    },
+    {
+        "Title": "Kung Fu Kid",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "4"
+    },
+    {
+        "Title": "Laser Ghost",
+        "Genre": "Shmup 3rd Person",
+        "Rating": "4"
+    },
+    {
+        "Title": "Lemmings",
+        "Genre": "Simulation Lemmings",
+        "Rating": "5"
+    },
+    {
+        "Title": "Line of Fire",
+        "Genre": "Shmup Vertical",
+        "Rating": "4"
+    },
+    {
+        "Title": "Lion King",
+        "Genre": "Platformer Basic",
+        "Rating": "4"
+    },
+    {
+        "Title": "Lord of the Sword",
+        "Genre": "Beat'em Up Adventure",
+        "Rating": "4"
+    },
+    {
+        "Title": "Marble Madness",
+        "Genre": "Platformer Marble",
+        "Rating": "5"
+    },
+    {
+        "Title": "Master of Darkness",
+        "Genre": "Check Vampire",
+        "Rating": "-"
+    },
+    {
+        "Title": "Masters of Combat",
+        "Genre": "Fighting",
+        "Rating": "4"
+    },
+    {
+        "Title": "Mercs",
+        "Genre": "Beat'em Up Shmup Top Down",
+        "Rating": "4"
+    },
+    {
+        "Title": "Michael Jackson's Moonwalker",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "Mickey Mouse - Castle of Illusion",
+        "Genre": "Platformer Basic",
+        "Rating": "5"
+    },
+    {
+        "Title": "Mickey Mouse - Land of Illusion",
+        "Genre": "Platformer Basic",
+        "Rating": "4"
+    },
+    {
+        "Title": "Mickey Mouse - Legend of Illusion",
+        "Genre": "Platformer Basic",
+        "Rating": "5"
+    },
+    {
+        "Title": "Micro Machines",
+        "Genre": "Racing Top Down",
+        "Rating": "5"
+    },
+    {
+        "Title": "Monopoly",
+        "Genre": "Board Game",
+        "Rating": "3"
+    },
+    {
+        "Title": "Montezuma's Revenge",
+        "Genre": "Platformer Puzzle",
+        "Rating": "5"
+    },
+    {
+        "Title": "Mortal Kombat",
+        "Genre": "Fighting",
+        "Rating": "4"
+    },
+    {
+        "Title": "Mortal Kombat 2",
+        "Genre": "Fighting",
+        "Rating": "4"
+    },
+    {
+        "Title": "Mortal Kombat 3",
+        "Genre": "Fighting",
+        "Rating": "4"
+    },
+    {
+        "Title": "Ms. Pac-Man",
+        "Genre": "Arcade Pac",
+        "Rating": "3"
+    },
+    {
+        "Title": "My Hero",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "New Zealand Story",
+        "Genre": "Platformer Combat",
+        "Rating": "5"
+    },
+    {
+        "Title": "Ninja Gaiden",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "5"
+    },
+    {
+        "Title": "The Ninja",
+        "Genre": "Beat'em Up Top Down Shmup",
+        "Rating": "3"
+    },
+    {
+        "Title": "The Ottifants",
+        "Genre": "Platformer Combat",
+        "Rating": "3"
+    },
+    {
+        "Title": "OutRun",
+        "Genre": "Racing",
+        "Rating": "5"
+    },
+    {
+        "Title": "Pac Mania",
+        "Genre": "Arcade",
+        "Rating": "4"
+    },
+    {
+        "Title": "Paperboy",
+        "Genre": "Arcade",
+        "Rating": "3"
+    },
+    {
+        "Title": "Parlour Games",
+        "Genre": "Casino",
+        "Rating": "5"
+    },
+    {
+        "Title": "Penguin Land",
+        "Genre": "Platformer Puzzle",
+        "Rating": "5"
+    },
+    {
+        "Title": "Phantasy Star",
+        "Genre": "RPG Adventure",
+        "Rating": "5"
+    },
+    {
+        "Title": "Pit Fighter",
+        "Genre": "Fighter Beat'em Up 2.5D",
+        "Rating": "3"
+    },
+    {
+        "Title": "Populous",
+        "Genre": "Simulation City",
+        "Rating": "5"
+    },
+    {
+        "Title": "Power Strike",
+        "Genre": "Shmup Vertical",
+        "Rating": "3"
+    },
+    {
+        "Title": "Power Strike 2",
+        "Genre": "Shmup Vertical",
+        "Rating": "5"
+    },
+    {
+        "Title": "Predator 2",
+        "Genre": "Beat'em Up 2.5D Shmup",
+        "Rating": "4"
+    },
+    {
+        "Title": "Pro Wrestling",
+        "Genre": "Fighting Wrestling",
+        "Rating": "3"
+    },
+    {
+        "Title": "Putt-Putter",
+        "Genre": "Sports Mini-Golf",
+        "Rating": "5"
+    },
+    {
+        "Title": "Quartet",
+        "Genre": "Platformer Combat",
+        "Rating": "4"
+    },
+    {
+        "Title": "R-Type",
+        "Genre": "Shmup Horizontal",
+        "Rating": "5"
+    },
+    {
+        "Title": "R.C. Grand Prix",
+        "Genre": "Racing-O",
+        "Rating": "3"
+    },
+    {
+        "Title": "Rainbow Islands",
+        "Genre": "Platformer Basic",
+        "Rating": "4"
+    },
+    {
+        "Title": "Rambo - Frist Blood Part 2",
+        "Genre": "Shmup Top Down",
+        "Rating": "3"
+    },
+    {
+        "Title": "Rampage",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "Rastan",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "2"
+    },
+    {
+        "Title": "Reggie Jackson Baseball",
+        "Genre": "Sports Baseball",
+        "Rating": "4"
+    },
+    {
+        "Title": "Renegade",
+        "Genre": "Beat'em Up 2.5D",
+        "Rating": "5"
+    },
+    {
+        "Title": "Robocop 3",
+        "Genre": "Beat'em Up 2D Shmup",
+        "Rating": "3"
+    },
+    {
+        "Title": "Robocop vs. Terminator",
+        "Genre": "Beat'em Up 2D Shmup",
+        "Rating": "5"
+    },
+    {
+        "Title": "Rocky",
+        "Genre": "Fighting Boxing",
+        "Rating": "3"
+    },
+    {
+        "Title": "Running Battle",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "Sagaia",
+        "Genre": "Shmup Horizontal",
+        "Rating": "4"
+    },
+    {
+        "Title": "Scramble Spirits",
+        "Genre": "Shmup Vertical",
+        "Rating": "4"
+    },
+    {
+        "Title": "Sega World Tournament Golf",
+        "Genre": "Sports Golf",
+        "Rating": "3"
+    },
+    {
+        "Title": "Sensible Soccer",
+        "Genre": "Sports Soccer",
+        "Rating": "5"
+    },
+    {
+        "Title": "Shadow Dancer",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "Shadow of the Beast",
+        "Genre": "Beat'em Up 2D Adventure",
+        "Rating": "3"
+    },
+    {
+        "Title": "Shanghai",
+        "Genre": "Puzzle Shanghai",
+        "Rating": "5"
+    },
+    {
+        "Title": "Shinobi",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "4"
+    },
+    {
+        "Title": "Slap Shot",
+        "Genre": "Sports Hockey",
+        "Rating": "5"
+    },
+    {
+        "Title": "Smash TV",
+        "Genre": "Beat'em Up Shmup Top Down",
+        "Rating": "4"
+    },
+    {
+        "Title": "Smurfs 2",
+        "Genre": "Platformer Combat",
+        "Rating": "3"
+    },
+    {
+        "Title": "Smurfs",
+        "Genre": "Platformer Basic",
+        "Rating": "2"
+    },
+    {
+        "Title": "Sonic Spinball",
+        "Genre": "Pinball",
+        "Rating": "3"
+    },
+    {
+        "Title": "Sonic the Hedgehog",
+        "Genre": "Platformer Basic",
+        "Rating": "5"
+    },
+    {
+        "Title": "Sonic the Hedgehog 2",
+        "Genre": "Platformer Basic",
+        "Rating": "5"
+    },
+    {
+        "Title": "Special Criminal Investigation",
+        "Genre": "Racing Shmup",
+        "Rating": "5"
+    },
+    {
+        "Title": "Speedball 2",
+        "Genre": "Sports Soccer Action",
+        "Rating": "5"
+    },
+    {
+        "Title": "Spider-Man vs. the Kingpin",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "Spy vs. Spy",
+        "Genre": "Fighting Spies",
+        "Rating": "5"
+    },
+    {
+        "Title": "Star Wars",
+        "Genre": "Platformer Combat",
+        "Rating": "3"
+    },
+    {
+        "Title": "Streets of Rage",
+        "Genre": "Beat'em Up 2.5D",
+        "Rating": "5"
+    },
+    {
+        "Title": "Streets of Rage 2",
+        "Genre": "Beat'em Up 2.5D",
+        "Rating": "5"
+    },
+    {
+        "Title": "Strider",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "Strider 2",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "2"
+    },
+    {
+        "Title": "Submarine Attack",
+        "Genre": "Shmup Horizontal",
+        "Rating": "4"
+    },
+    {
+        "Title": "Super Kick Off",
+        "Genre": "Sports Soccer",
+        "Rating": "3"
+    },
+    {
+        "Title": "Super Monaco GP",
+        "Genre": "Racing",
+        "Rating": "5"
+    },
+    {
+        "Title": "Super Off-Road",
+        "Genre": "Racing-O",
+        "Rating": "4"
+    },
+    {
+        "Title": "Super Racing",
+        "Genre": "Racing Top Down",
+        "Rating": "4"
+    },
+    {
+        "Title": "Super Space Invaders",
+        "Genre": "Shmup Vertical",
+        "Rating": "4"
+    },
+    {
+        "Title": "Super Tennis",
+        "Genre": "Sports Tennis",
+        "Rating": "4"
+    },
+    {
+        "Title": "Super Tetris",
+        "Genre": "Puzzle Tetris",
+        "Rating": "4"
+    },
+    {
+        "Title": "Superman",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "Taz-Mania",
+        "Genre": "Platformer Combat",
+        "Rating": "4"
+    },
+    {
+        "Title": "Tennis Ace",
+        "Genre": "Sports Tennis",
+        "Rating": "4"
+    },
+    {
+        "Title": "Terminator 2 - The Arcade Game",
+        "Genre": "Shmup 3rd Person",
+        "Rating": "3"
+    },
+    {
+        "Title": "Terminator",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "Thunder Blade",
+        "Genre": "Shmup Vertical",
+        "Rating": "4"
+    },
+    {
+        "Title": "Time Soldiers",
+        "Genre": "Beat'em Up Shmup Top Down",
+        "Rating": "4"
+    },
+    {
+        "Title": "Tom and Jerry The Movie",
+        "Genre": "Platformer Racing",
+        "Rating": "5"
+    },
+    {
+        "Title": "Trans-Bot",
+        "Genre": "Shmup Horizontal",
+        "Rating": "5"
+    },
+    {
+        "Title": "Ultima 4 - Quest of the Avatar",
+        "Genre": "RPG Adventure",
+        "Rating": "5"
+    },
+    {
+        "Title": "Ultimate Soccer",
+        "Genre": "Sports Soccer",
+        "Rating": "3"
+    },
+    {
+        "Title": "Vampire",
+        "Genre": "Beat'em Up 2D Vania-like",
+        "Rating": "5"
+    },
+    {
+        "Title": "Vigilante",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "3"
+    },
+    {
+        "Title": "Where in the World in Carmen Sandiego",
+        "Genre": "RPG Adventure Puzzle",
+        "Rating": "5"
+    },
+    {
+        "Title": "Wimbledon",
+        "Genre": "Sports Tennis",
+        "Rating": "4"
+    },
+    {
+        "Title": "Wilmbledon 2",
+        "Genre": "Sports Tennis",
+        "Rating": "5"
+    },
+    {
+        "Title": "Winter Olympics 94",
+        "Genre": "Sports Olympics",
+        "Rating": "4"
+    },
+    {
+        "Title": "Wonder Boy",
+        "Genre": "Platformer Combat",
+        "Rating": "4"
+    },
+    {
+        "Title": "Wonder Boy 2 - Wonderboy in Monsterland",
+        "Genre": "Platformer Combat",
+        "Rating": "5"
+    },
+    {
+        "Title": "Wonder Boy 5 - Wonderboy in Monster World",
+        "Genre": "Platformer Combat",
+        "Rating": "5"
+    },
+    {
+        "Title": "X-Men - Mojo World",
+        "Genre": "Beat'em Up 2D",
+        "Rating": "2"
+    },
+    {
+        "Title": "Zillion 2 - The Tri Formation",
+        "Genre": "Shmup Horizontal",
+        "Rating": "4"
+    },
+    {
+        "Title": "Zool",
+        "Genre": "Platformer Combat",
+        "Rating": "5"
+    }
+]
