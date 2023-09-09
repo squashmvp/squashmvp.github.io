@@ -1,7 +1,7 @@
 let fileNumber = [1, 1, 1, 1];
 folderNumber = 0;
 ext = 0;
-const folderName = ["Art", "DFUShip", "Nature", "Ai"];
+const folderName = ["Art", "DFUShip", "Nature", "AI"];
   maxFileCount = [81, 27, 55, 65];
   imageType = [".png", ".jpg"];
   imgLink = `imgs/${folderName[folderNumber]}/${fileNumber[folderNumber]}${imageType[ext]}`;
