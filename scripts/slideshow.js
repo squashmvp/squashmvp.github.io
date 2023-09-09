@@ -2,7 +2,7 @@ let fileNumber = [1, 1, 1, 1];
 folderNumber = 0;
 ext = 0;
 const folderName = ["Art", "DFUShip", "Nature", "AI"];
-  maxFileCount = [81, 27, 55, 65];
+  maxFileCount = [88, 27, 55, 65];
   imageType = [".png", ".jpg"];
   imgLink = `imgs/${folderName[folderNumber]}/${fileNumber[folderNumber]}${imageType[ext]}`;
   img_1 = document.getElementById("ss-img-1");
@@ -28,7 +28,7 @@ prev_0.addEventListener("click", function () {
   }
   fileNumber[0] = i;
   imgLink = `imgs/${folderName[folderNumber]}/${fileNumber[folderNumber]}${imageType[ext]}`;
-  img_1.src = imgLink
+  img_1.src = imgLink;
 });
 
 next_0.addEventListener("click", function () {
@@ -54,7 +54,7 @@ prev_1.addEventListener("click", function () {
   }
   fileNumber[1] = i;
   imgLink = `imgs/${folderName[folderNumber]}/${fileNumber[folderNumber]}${imageType[ext]}`;
-  img_2.src = imgLink
+  img_2.src = imgLink;
 });
 
 next_1.addEventListener("click", function () {
@@ -80,7 +80,7 @@ prev_2.addEventListener("click", function () {
   }
   fileNumber[2] = i;
   imgLink = `imgs/${folderName[folderNumber]}/${fileNumber[folderNumber]}${imageType[ext]}`;
-  img_3.src = imgLink
+  img_3.src = imgLink;
 });
 
 next_2.addEventListener("click", function () {
@@ -106,7 +106,7 @@ prev_3.addEventListener("click", function () {
   }
   fileNumber[3] = i;
   imgLink = `imgs/${folderName[folderNumber]}/${fileNumber[folderNumber]}${imageType[ext]}`;
-  img_4.src = imgLink
+  img_4.src = imgLink;
 });
 
 next_3.addEventListener("click", function () {
@@ -120,7 +120,6 @@ next_3.addEventListener("click", function () {
   fileNumber[3] = i;
   imgLink = `imgs/${folderName[folderNumber]}/${fileNumber[folderNumber]}${imageType[ext]}`;
   img_4.src = imgLink;
-  console.log(imgLink)
 });
 
 
