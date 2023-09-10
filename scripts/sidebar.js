@@ -1,5 +1,8 @@
 const btn = document.getElementById('sb-btn');
 const sb = document.getElementById('sidebar');
+const sbInfo = document.getElementById('page-footer');
+sb.classList.add('sidebar-visible');
+btn.innerHTML = "Show";
 
 btn.addEventListener("click", function () {
   // console.log(sidebar.classList);

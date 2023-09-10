@@ -7,7 +7,7 @@
     <link rel="icon" type="image/x-icon" href="imgs/Static/favicon.ico">
     <link rel="stylesheet" href="styles/default.css">
   </head>
-  <body>
+  <body onload="hideToggles()">
     <header class="page-header">
       <header>
         <img src="imgs/Static/SLogo32x.ico" alt="Squash Logo" width="32">
@@ -15,7 +15,7 @@
       <main>
         <h1 class="page-title">The Garden</h1>
       </main>
-      <footer>
+      <footer class="page-footer" id="page-footer">
         <aside id="sidebar">
           <div><a href="index.html">Home</a></div>
           <div><a href="rules.html">Rules</a></div>
@@ -75,6 +75,6 @@
       </footer>
     </footer>
     <script src="scripts/slideshow.js"></script>
-    <script src="scripts/sidebar.js"></script>
+    <script src="scripts/sidebar.js" defer></script>
   </body>
 </html>
