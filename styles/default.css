@@ -63,6 +63,15 @@ span {
   padding: 20px;
 }
 
+a:visited {
+  color: var(--text-color-3);
+}
+
+a:hover {
+  color: var(--text-color-1);
+  transition: linear 0.3s;
+}
+
 .page-header {
   /* background: var(--bg-color-2); */
   border-radius: 8px;
@@ -88,6 +97,12 @@ header img {
   position: relative;
   top: 22px;
   right: 4px;
+}
+
+.sidebar-btn:hover {
+  background: var(--text-color-3);
+  color: var(--bg-color-3);
+  transition: linear 0.1s;
 }
 
 .sidebar-visible {
